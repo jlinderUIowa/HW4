@@ -11,6 +11,12 @@
     
     <body>
         <h1>Former Hawkeye - Current Professional Athlete Database</h1>
+        
         <%= table %>
+        
+        <br><br>
+        
+        <a href ="add"> Add A New Athlete</a>
+   
     </body>
 </html>
