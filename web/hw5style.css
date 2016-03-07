@@ -1,0 +1,33 @@
+body{
+    background-color: #D2B48C;
+    font-family: serif;
+    font-size: 12pt;
+    color: black;
+}
+
+h1{
+    font-size: 20pt;
+    font-family: serif;
+    text-align: left;
+    color: black;
+    
+}
+
+table {
+    width:100%;
+}
+
+th {
+    height: 50px;
+    color: #F08080;
+    background-color: #FFFF99;
+}
+
+th, td {
+    border: 1px solid black;
+}
+
+td {
+    background-color: #F08080;
+    color: #FFFFFF;
+}

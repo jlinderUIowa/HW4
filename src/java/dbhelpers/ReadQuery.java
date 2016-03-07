@@ -68,7 +68,6 @@ public class ReadQuery {
         
         String table = "";
         
-        table += "<table border=1>";
         
         try {
             while(this.results.next()){
