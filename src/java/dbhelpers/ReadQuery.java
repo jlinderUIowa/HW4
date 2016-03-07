@@ -107,6 +107,10 @@ public class ReadQuery {
                 table += pro.getYearGraduated();
                 table += "</td>";
                 
+                table += "<td>";
+                table += "<a href=delete?athleteID=" + pro.getAthleteID() + "> Delete </a>";
+                table += "</td>";
+                
                 table += "</tr>";
                 
             }
