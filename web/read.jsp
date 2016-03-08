@@ -22,7 +22,7 @@
                 <th>Team</th>
                 <th>Year Graduated</th>
             </tr>
-            <tr><%= table %></tr>
+            <%= table %>
         </table>
         
         <br><br>

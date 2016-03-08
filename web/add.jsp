@@ -4,6 +4,7 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>Add A New Athlete</title>
+        <link rel="stylesheet" type="text/css" href="hw5style.css" />
     </head>
     <body>
         
