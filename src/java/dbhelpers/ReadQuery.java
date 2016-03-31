@@ -107,7 +107,7 @@ public class ReadQuery {
                 table += "</td>";
                 
                 table += "<td>";
-                table += "<a href=delete?athleteID=" + pro.getAthleteID() + "> Delete </a>";
+                table += "<a href=update?athleteID=" + pro.getAthleteID() + "> Update </a>" + "<a href=delete?athleteID=" + pro.getAthleteID() + "> Delete </a>";
                 table += "</td>";
                 
                 table += "</tr>";
