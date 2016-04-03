@@ -10,5 +10,7 @@
         <h1>Former Hawkeye - Current Professional Athlete Database</h1>
     
         <a href="read">View All Athletes</a>
+        <br><br>
+        <a href="search.jsp">Search Athletes</a>
     </body>
 </html>

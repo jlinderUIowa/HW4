@@ -5,7 +5,7 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>Former Hawkeye Pros</title>
-        <link rel="stylesheet" type="text/css" href="hw5style.css" />
+        <link rel="stylesheet" type="text/css" href="hw5style.css">
     </head>
     
     <% String table = (String) request.getAttribute("table"); %>
@@ -28,6 +28,8 @@
         <br><br>
         
         <a href ="add"> Add A New Athlete</a>
+        <br><br>
+        <a href="search.jsp">Search Athletes</a>
    
     </body>
 </html>
