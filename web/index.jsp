@@ -3,14 +3,27 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Former Hawkeye Pros</title>
         <link rel="stylesheet" type="text/css" href="hw5style.css" />
+        <title>Former Hawkeye Pros</title>
     </head>
     <body>
-        <h1>Former Hawkeye - Current Professional Athlete Database</h1>
-    
-        <a href="read">View All Athletes</a>
-        <br><br>
-        <a href="search.jsp">Search Athletes</a>
+
+        <div class="wrap">
+
+            <%@ include file="includes/header.jsp" %>
+
+            <%@ include file="includes/menu.jsp" %>
+
+            <div class="main">
+
+                <h1>Former Hawkeye - Current Professional Athlete Database</h1>
+
+              
+
+            </div>
+
+            <%@ include file="includes/footer.jsp" %>
+
+        </div>
     </body>
 </html>
